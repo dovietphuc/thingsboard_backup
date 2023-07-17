@@ -1,0 +1,22 @@
+{
+  "entityType" : "ASSET_PROFILE",
+  "entity" : {
+    "default" : true,
+    "defaultDashboardId" : null,
+    "defaultEdgeRuleChainId" : null,
+    "defaultQueueName" : null,
+    "defaultRuleChainId" : null,
+    "description" : "Default asset profile",
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "d3372e60-1949-11ee-a5c7-f5a61e0359a1"
+    },
+    "image" : null,
+    "name" : "default"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

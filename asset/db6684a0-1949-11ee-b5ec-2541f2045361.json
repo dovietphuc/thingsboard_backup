@@ -1,0 +1,27 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : null,
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "db6217d0-1949-11ee-b5ec-2541f2045361"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "db6684a0-1949-11ee-b5ec-2541f2045361"
+    },
+    "label" : null,
+    "name" : "Main_tb-rule-engine-2",
+    "ownerId" : null,
+    "type" : "TbServiceQueue"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

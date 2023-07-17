@@ -1,0 +1,22 @@
+{
+  "entityType" : "ASSET_PROFILE",
+  "entity" : {
+    "default" : false,
+    "defaultDashboardId" : null,
+    "defaultEdgeRuleChainId" : null,
+    "defaultQueueName" : null,
+    "defaultRuleChainId" : null,
+    "description" : "Default asset profile",
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "db6217d0-1949-11ee-b5ec-2541f2045361"
+    },
+    "image" : null,
+    "name" : "TbServiceQueue"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

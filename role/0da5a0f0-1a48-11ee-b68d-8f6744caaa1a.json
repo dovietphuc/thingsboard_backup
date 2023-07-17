@@ -1,0 +1,27 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Tenant User 2",
+    "permissions" : {
+      "NOTIFICATION" : [ "ALL" ]
+    },
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "0da5a0f0-1a48-11ee-b68d-8f6744caaa1a"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
